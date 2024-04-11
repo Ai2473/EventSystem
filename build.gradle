@@ -1,0 +1,10 @@
+plugins {
+    id("java")
+}
+
+group = 'me.ai24.eventsystem'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
