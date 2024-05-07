@@ -39,6 +39,6 @@ public abstract class AbstractListener<T> {
      * @return true if the listeners are equal, false otherwise
      */
     public final boolean equals(Object obj) {
-        return obj instanceof AbstractListener listener && listener.id == id;
+        return obj instanceof AbstractListener<?> listener && listener.id == id;
     }
 }

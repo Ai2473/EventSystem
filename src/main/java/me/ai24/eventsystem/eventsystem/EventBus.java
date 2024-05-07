@@ -1,8 +1,8 @@
 package me.ai24.eventsystem.eventsystem;
 
 import me.ai24.eventsystem.eventsystem.listeners.AbstractListener;
-import me.ai24.eventsystem.eventsystem.util.IEventBus;
 import me.ai24.eventsystem.eventsystem.util.BusListManager;
+import me.ai24.eventsystem.eventsystem.util.IEventBus;
 
 import java.util.Arrays;
 import java.util.List;

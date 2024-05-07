@@ -1,7 +1,7 @@
 package me.ai24.eventsystem.eventsystem.util;
 
-import me.ai24.eventsystem.eventsystem.listeners.MethodListener;
 import me.ai24.eventsystem.eventsystem.EventBus;
+import me.ai24.eventsystem.eventsystem.listeners.MethodListener;
 
 import java.lang.reflect.Method;
 
